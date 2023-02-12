@@ -7,11 +7,11 @@ sites:
   - name: Elk
     url: https://elk.nyan.lol
 
+assignees:
+  - ZicklePop
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nyan.lol
-  # baseUrl: /your-repo-name
   logoUrl: https://files.nyan.lol/site_uploads/files/000/000/002/@2x/83f8682fba7737b8.png
   name: nyan.lol
   navbar:

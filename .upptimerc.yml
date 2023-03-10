@@ -10,9 +10,6 @@ sites:
 assignees:
   - ZicklePop
 
-workflowSchedule:
-  uptime: "*/15 * * * *"
-
 status-website:
   cname: status.nyan.lol
   logoUrl: https://files.nyan.lol/site_uploads/files/000/000/002/@2x/83f8682fba7737b8.png
